@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0d47a1</color>
+    <color name="colorPrimaryDark">#002171</color>
+    <color name="colorAccent">#d32f2f</color>
+    <color name="nasa_color">#0B3D91</color>
+    <color name="text_nasa">#96FFFFFF</color>
+    <color name="background_nasa">#64FFFFFF</color>
+</resources>
